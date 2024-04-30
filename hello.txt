@@ -1,0 +1,4 @@
+goodmorning
+goodafternoon
+goodnight
+git init :- it is used 
